@@ -64,6 +64,25 @@ Semantic / Similarity Analysis	Intermediate	Applied similarity-oriented analysis
 AI Product Engineering	Advanced	Combined AI services with frontend, backend, databases and user workflows
 
 
+Live Project Experiences
+<p align="center">
+  <a href="https://ancient-egypt-website-two.vercel.app/"><strong>🏺 KEMET — Ancient Egypt Experience</strong></a> &nbsp;•&nbsp;
+  <a href="https://mini-project-fzu3.vercel.app/"><strong>🌍 EcoEvaluator 2050</strong></a> &nbsp;•&nbsp;
+  <a href="https://mc-laren-p1-jet.vercel.app/"><strong>🏎️ McLaren P1 Experience</strong></a>
+</p>
+
+<p align="center">
+  <a href="https://ancient-egypt-website-two.vercel.app/">
+    <img src="https://img.shields.io/badge/KEMET-Ancient%20Egypt-6E44FF?style=for-the-badge" alt="KEMET Ancient Egypt" />
+  </a>
+  <a href="https://mini-project-fzu3.vercel.app/">
+    <img src="https://img.shields.io/badge/EcoEvaluator-2050-7C3AED?style=for-the-badge" alt="EcoEvaluator 2050" />
+  </a>
+  <a href="https://mc-laren-p1-jet.vercel.app/">
+    <img src="https://img.shields.io/badge/McLaren-P1-4F46E5?style=for-the-badge" alt="McLaren P1" />
+  </a>
+</p>
+
 Featured Projects
 <details>
 <summary><strong>01 · Patenix — AI-Powered Trademark Search & Brand Protection Platform</strong></summary>
